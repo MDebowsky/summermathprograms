@@ -1,6 +1,7 @@
 body {
 		background-color: #e7f3ff;
-		font-family: Eurostile, Helvetica, Arial, sans-serif 
+		font-family: Eurostile, Helvetica, Arial, sans-serif;
+		margin: 10px;
 	}
 
 li {
